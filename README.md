@@ -1,1 +1,1 @@
-# RAKIB_object-oriented-programming-tutorials
+PART 1: GITHUB REPOSITORY README.md CONTENT
